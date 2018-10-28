@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538902475 source:e:\code_blocks\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1538904232 source:e:\code_blocks\stack\rpn.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
